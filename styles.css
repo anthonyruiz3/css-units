@@ -1,0 +1,27 @@
+body {
+    background-color: maroon;
+}
+
+.header {
+    background: red;
+    padding: 5%;
+}
+
+.header h1 {
+    color: white;
+    font-size: 2em;
+}
+
+.header a {
+    color: aquamarine;
+    font-size: 0.8em;
+}
+
+.gallery {
+    background-color: teal;
+}
+
+.gallery img {
+    width: 25%;
+    margin: 2%;
+}
